@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Flores Amarillas para ti</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Fondo con corazones -->
+    <div class="corazones">
+        <span>♡</span>
+        <span>♡</span>
+        <span>♥️</span>
+        <span>♡</span>
+        <span>♥️</span>
+        <span>♡</span>
+        <span>♥️</span>
+        <span>♡</span>
+        <span>♥️</span>
+        <span>♡</span>
+    </div>
+
+    <!-- Encabezado -->
+    <header>
+        <h2>DE BRUNO BENJAMIN</h2>
+    </header>
+
+    <!-- Contenido principal -->
+    <main>
+
+        <h1>Flores Amarillas para ti 🌻</h1>
+
+        <!-- Zona de la flor -->
+        <div class="jardin">
+
+            <!-- Estrellas -->
+            <div class="estrellas">
+                ✦　·　✧　·　✦　·　⋆　·　✧
+            </div>
+
+            <!-- Flor -->
+            <div class="flor">
+
+                <!-- Pétalos -->
+                <div class="petalos">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+
+                <!-- Centro -->
+                <div class="centro"></div>
+
+                <!-- Tallo -->
+                <div class="tallo"></div>
+
+                <!-- Hojas -->
+                <div class="hoja hoja1"></div>
+                <div class="hoja hoja2"></div>
+
+            </div>
+
+        </div>
+
+        <!-- Mensaje -->
+        <div class="mensaje">
+            <h2>Para vos ❤️</h2>
+
+            <p>
+                Te regalo estas flores amarillas
+                para recordarte lo especial que sos. 🌻
+            </p>
+
+            <p>
+                Espero que siempre tengas motivos
+                para sonreír. 💛
+            </p>
+        </div>
+
+    </main>
+
+</body>
+
+</html>
